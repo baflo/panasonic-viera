@@ -93,6 +93,10 @@ class Keys(Enum):
     volume_up = 'NRC_VOLUP-ONOFF'
     vtools = 'NRC_VTOOLS-ONOFF'
     yellow = 'NRC_YELLOW-ONOFF'
+    hdmi1 = 'NRC_HDMI1'
+    hdmi2 = 'NRC_HDMI2'
+    hdmi3 = 'NRC_HDMI3'
+    hdmi4 = 'NRC_HDMI4'
 
 class RemoteControl:
     """This class represents a Panasonic Viera TV Remote Control."""
